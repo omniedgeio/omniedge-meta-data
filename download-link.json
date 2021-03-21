@@ -37,14 +37,14 @@
   },
   "linux": {
     "status": "COMING_SOON",
-    "displayName": "Linux CLI",
+    "displayName": "Linux CLI"
   },
   "mac": {
     "status": "COMING_SOON",
-    "displayName": "macOS",
+    "displayName": "macOS"
   },
   "ios": {
     "status": "COMING_SOON",
-    "displayName": "iOS",
+    "displayName": "iOS"
   }
 }
