@@ -1,5 +1,5 @@
 {
-  "windows": {
+  "win": {
     "status": "LIVE",
     "link": "https://github.com/omniedgeio/omniedge-windows-update/releases/download/v0.1.1/omniedge-setup-0.1.1.exe",
     "version": "0.1.1",
