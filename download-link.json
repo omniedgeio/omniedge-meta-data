@@ -13,7 +13,7 @@
     "description": {
       "title": "Get started on Windows",
       "instructions": "1. Download and run the Windows installer\n2. Click on \"Log in…\" from the Omniedge icon now in your system tray\n3. Sign in with your email address\n4. Click \"Connect\" in the menu bar from the tray icon. After a pop up disappears, a secure VPN connection is initialized.",
-      "instructionGifLink": ""
+      "instructionGifLink": "https://raw.githubusercontent.com/omniedgeio/omniedge-meta-data/main/download-assets/win-installation.gif"
     }
   },
   "android": {
@@ -30,7 +30,7 @@
     "description": {
       "title": "Get started on Android",
       "instructions": "1. Download OmniEdge APK and install it\n2. Run OmniEdge and Sign in with your email address\n3. Click the connect button\n4. Allow to install a VPN configuration\n5. Enjoy the secure VPN connection",
-      "instructionGifLink": ""
+      "instructionGifLink": "https://raw.githubusercontent.com/omniedgeio/omniedge-meta-data/main/download-assets/android-installation.gif"
     }
   },
   "linux": {
