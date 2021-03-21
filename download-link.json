@@ -1,6 +1,7 @@
 {
   "win": {
     "status": "LIVE",
+    "displayName": "Windows",
     "link": "https://github.com/omniedgeio/omniedge-windows-update/releases/download/v0.1.1/omniedge-setup-0.1.1.exe",
     "version": "0.1.1",
     "buttonText": "Download for Windows 7 or Later",
@@ -18,6 +19,7 @@
   },
   "android": {
     "status": "LIVE",
+    "displayName": "Android",
     "link": "https://github.com/omniedgeio/omniedge-android/releases/download/v0.1.0/OmniEdge-v0.1.0.apk",
     "version": "0.1.1",
     "buttonText": "Download for Android 6 or Later",
@@ -34,12 +36,15 @@
     }
   },
   "linux": {
-    "status": "COMING_SOON"
+    "status": "COMING_SOON",
+    "displayName": "Linux CLI",
   },
   "mac": {
-    "status": "COMING_SOON"
+    "status": "COMING_SOON",
+    "displayName": "macOS",
   },
   "ios": {
-    "status": "COMING_SOON"
+    "status": "COMING_SOON",
+    "displayName": "iOS",
   }
 }
