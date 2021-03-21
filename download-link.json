@@ -23,7 +23,7 @@
     "link": "https://github.com/omniedgeio/omniedge-android/releases/download/v0.1.0/OmniEdge-v0.1.0.apk",
     "version": "0.1.1",
     "buttonText": "Download for Android 6 or Later",
-    "downloadCaption": "Compatible with Android 6 or later.",
+    "captionText": "Compatible with Android 6 or later.",
     "lastUpdate": {
       "year": 2021,
       "month": "March",
