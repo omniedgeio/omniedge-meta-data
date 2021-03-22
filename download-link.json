@@ -47,8 +47,8 @@
     "link": "https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg",
     "showQRCode": false,
     "version": "0.1.5",
-    "buttonText": "Download for macOS Mojave or later",
-    "captionText": "Compatible with intel Macbook",
+    "buttonText": "Download for macOS",
+    "captionText": "Compatible with intel Macbook, macOS 10 or later",
     "lastUpdate": {
       "year": 2021,
       "month": "March",
