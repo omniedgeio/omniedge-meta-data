@@ -42,10 +42,10 @@
     "displayName": "Linux CLI"
   },
   "mac": {
-      "status": "LIVE",
+    "status": "LIVE",
     "displayName": "macOS",
     "link": "https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg",
-    "showQRCode": true,
+    "showQRCode": false,
     "version": "0.1.5",
     "buttonText": "Download for macOS",
     "captionText": "Compatible with intel Macbook, macOS Big Sur or later",
@@ -56,8 +56,7 @@
     },
     "description": {
       "title": "Get started on macOS",
-      "instructions": "1. Download OmniEdge DMG and open it\n2. Install tuntap by clicking  tuntap_20150118.pkg\n3. Drop Omniedge to Applications folder\n4. Run OmniEdge \n5. Sign in with your email address \n 6. Click the button near 'off' to connect, then a secure VPN connection is initialized.",
-      "instructionGifLink": ""
+      "instructions": "1. Download OmniEdge DMG and open it\n2. Install tuntap by clicking  tuntap_20150118.pkg\n3. Drop Omniedge to Applications folder\n4. Run OmniEdge \n5. Sign in with your email address \n6. Click the button near 'off' to connect, then a secure VPN connection is initialized.",
     }
   },
   "ios": {
