@@ -58,6 +58,7 @@
       "title": "Get started on macOS",
       "instructions": "1. Download OmniEdge DMG and open it\n2. Install tuntap by clicking  tuntap_20150118.pkg\n3. Drop Omniedge to Applications folder\n4. Run OmniEdge \n5. Sign in with your email address \n6. Click the button near 'off' to connect, then a secure VPN connection is initialized.",
       "instructionGifLink": "https://raw.githubusercontent.com/omniedgeio/omniedge-meta-data/main/download-assets/macOS-installation.gif"
+      
     }
   },
   "ios": {
