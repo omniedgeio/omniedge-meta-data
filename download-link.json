@@ -21,9 +21,9 @@
   "android": {
     "status": "LIVE",
     "displayName": "Android",
-    "link": "https://github.com/omniedgeio/omniedge-android/releases/download/v0.1.2/OmniEdge-v0.1.2.apk",
+    "link": "https://github.com/omniedgeio/omniedge-android/releases/download/v0.1.3/OmniEdge-v0.1.3.apk",
     "showQRCode": true,
-    "version": "0.1.2",
+    "version": "0.1.3",
     "buttonText": "Download for Android 6 or Later",
     "captionText": "Compatible with Android 6 or later.",
     "lastUpdate": {
