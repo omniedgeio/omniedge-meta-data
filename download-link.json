@@ -21,15 +21,15 @@
   "android": {
     "status": "LIVE",
     "displayName": "Android",
-    "link": "https://github.com/omniedgeio/omniedge-android/releases/download/v0.1.0/OmniEdge-v0.1.0.apk",
+    "link": "https://github.com/omniedgeio/omniedge-android/releases/download/v0.1.2/OmniEdge-v0.1.2.apk",
     "showQRCode": true,
-    "version": "0.1.1",
+    "version": "0.1.2",
     "buttonText": "Download for Android 6 or Later",
     "captionText": "Compatible with Android 6 or later.",
     "lastUpdate": {
       "year": 2021,
-      "month": "March",
-      "date": 19
+      "month": "April",
+      "date": 27
     },
     "description": {
       "title": "Get started on Android",
